@@ -1,0 +1,25 @@
+{
+  "name": "스카배틀 - 스터디카페 친구 위치 & 순공 대결",
+  "short_name": "스카배틀",
+  "description": "친구가 지금 어느 스카에 있는지 확인하고 순공 1:1 대결하는 공부 동기부여 웹앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/static/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity", "social"]
+}
